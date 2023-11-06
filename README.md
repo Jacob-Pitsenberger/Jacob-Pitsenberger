@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacob-Pitsenberger
-- 👀 Engineering and Computer Science Professional | Robotics | Artificial Intelligence | Data Analysis | Machine Learning | Computer Vision
+- 👀 Engineering and Computer Science Professional | Drone Programming | Machine Learning | Computer Vision
 - 🌱 LinkedIn: https://www.linkedin.com/in/jacob-pitsenberger/
 - 📫 Email: jacobpitsenberger@gmail.com
 
